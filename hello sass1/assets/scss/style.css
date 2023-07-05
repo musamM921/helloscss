@@ -7,7 +7,7 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
-  background-image: url(../images/body-bg.jpg);
+  background-image: url();
   background-size: cover;
 }
 
@@ -90,7 +90,7 @@ a:focus {
   position: relative;
   display: flex;
   flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../img/hero-bg.jpg);
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
